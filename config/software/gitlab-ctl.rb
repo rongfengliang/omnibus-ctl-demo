@@ -18,7 +18,7 @@ do
   unset $ruby_env_var
 done
 
-#{install_dir}/embedded/bin/omnibus-ctl my #{install_dir}/embedded/service/omnibus-ctl $@
+#{install_dir}/embedded/bin/omnibus-ctl gitlab #{install_dir}/embedded/service/omnibus-ctl $@
        EOH
     end
   end
