@@ -8,4 +8,4 @@ cache_path "#{CURRENT_PATH}/cache"
 verbose_logging false
 # Log to the reconfigure log
 log_location "#{LOG_PATH}/#{TIME}.log"
-log_level :debug
+log_level :info
