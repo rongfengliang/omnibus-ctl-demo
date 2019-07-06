@@ -12,6 +12,6 @@ error_exit()
   exit 1
 }
 
-echo "Thank you for installing gitlab!\r\n please run gitlab-ctl reconfigure"
+echo "Thank you for installing gitlab! please run gitlab-ctl reconfigure"
 
 exit 0
