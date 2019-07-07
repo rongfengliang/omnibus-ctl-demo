@@ -12,7 +12,7 @@ homepage "https://github.com/rongfengliang"
 # and /opt/my on all other platforms
 install_dir "#{default_root}/#{name}"
 
-build_version Omnibus::BuildVersion.semver
+build_version '1.0.0'
 build_iteration 1
 
 # Creates required build directories
