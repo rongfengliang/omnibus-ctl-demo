@@ -25,6 +25,7 @@ dependency 'runit'
 dependency 'openssl'
 dependency 'git'
 dependency 'mongodb'
+dependency  'rsync'
 # dependency 'rabbitmq'
 # my dependencies/components
 # dependency "somedep"
