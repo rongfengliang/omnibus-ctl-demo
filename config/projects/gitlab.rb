@@ -24,6 +24,7 @@ dependency 'chef-gem'
 dependency 'runit'
 dependency 'openssl'
 dependency 'git'
+dependency 'mongodb'
 # dependency 'rabbitmq'
 # my dependencies/components
 # dependency "somedep"
