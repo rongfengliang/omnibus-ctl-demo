@@ -16,5 +16,5 @@ build do
   sync  "#{project_dir}/", "#{install_dir}/mongodb"
   delete "#{install_dir}/mongodb/bin/mongoreplay"
 
-  gem "install mongo -n #{install_dir}/embedded/bin --no-rdoc --no-ri -v #{gem_version}"
+  gem "install mongo -n #{install_dir}/embedded/bin  -v #{gem_version}"
 end
