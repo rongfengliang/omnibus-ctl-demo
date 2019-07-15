@@ -21,6 +21,10 @@ dependency "gitlab-ctl"
 dependency 'gitlab-cookbooks'
 dependency 'chef-zero'
 dependency 'chef-gem'
+dependency 'runit'
+dependency 'openssl'
+dependency 'git'
+dependency 'rabbitmq'
 # my dependencies/components
 # dependency "somedep"
 
